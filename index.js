@@ -1,4 +1,4 @@
-console.log('Ciao, Mondo!')
+console.log('Good morning!')
 console.log('Hallo, Welt!')
 
 let result = 10 + 5
